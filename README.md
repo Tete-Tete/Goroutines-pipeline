@@ -29,9 +29,6 @@ go build -o pipeline.exe main.go
 ```
 This will create an executable file named `pipeline` in your current directory. Then run the executable file, and you can choose use 1 or 2 and you will get different outputs which is the time for running this file. 
 
-### Benchmark Results
-- **Without Goroutines**: The benchmark results showed that the sequential execution was significantly slower.
-- **With Goroutines**: The concurrent version effectively reduced the processing time, demonstrating the benefits of Go's concurrency model.
 
 ## Testing
 ### Running Tests
