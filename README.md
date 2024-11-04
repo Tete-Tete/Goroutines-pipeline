@@ -18,7 +18,7 @@ This project aims to demonstrate the benefits of concurrent programming by using
 ### Step 1: Clone the Repository
 Clone this repository to your local machine:
 ```sh
-git clone <https://github.com/Tete-Tete/GO-for-stats-regression.git>
+git clone <https://github.com/Tete-Tete/Goroutines-pipeline.git>
 ```
 
 ### Step 2: Run the Application
